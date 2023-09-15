@@ -49,6 +49,6 @@
     "symfony/filesystem": "^3.0",
     "symfony/finder": "^3.0",
     "symfony/process": "^3.1",
-    "symfony/yaml": "^3.0"
+    "symfony/yaml": "^6.0"
   }
 }
